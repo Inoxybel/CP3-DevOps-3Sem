@@ -1,0 +1,129 @@
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\AppMvc.dll.config
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\AppMvc.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\AppMvc.pdb
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Antlr3.Runtime.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\EntityFramework.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Newtonsoft.Json.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Owin.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.Helpers.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.Mvc.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.Optimization.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.Razor.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.WebPages.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\WebGrease.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.Helpers.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.Mvc.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.Optimization.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.Razor.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.WebPages.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Newtonsoft.Json.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Antlr3.Runtime.pdb
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\EntityFramework.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\obj\Debug\AppMvc.csproj.AssemblyReference.cache
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\obj\Debug\AppMvc.csproj.CoreCompileInputs.cache
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\obj\Debug\AppMvc.csproj.CopyComplete
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\obj\Debug\AppMvc.dll
+C:\Users\thdev\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF361-02 - App Funcional\AppMvc\obj\Debug\AppMvc.pdb
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\obj\Debug\AppMvc.csprojFakesResolveAssemblyReference.cache
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\obj\Debug\AppMvc.csproj.AssemblyReference.cache
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\obj\Debug\AppMvc.csproj.CoreCompileInputs.cache
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\AppMvc.dll.config
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\AppMvc.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\AppMvc.pdb
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Antlr3.Runtime.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\EntityFramework.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Newtonsoft.Json.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Owin.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.Helpers.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.Mvc.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.Optimization.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.Razor.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.WebPages.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\WebGrease.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.Helpers.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.Mvc.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.Optimization.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.Razor.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.WebPages.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Newtonsoft.Json.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Antlr3.Runtime.pdb
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\EntityFramework.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\bin\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\obj\Debug\AppMvc.csproj.CopyComplete
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\obj\Debug\AppMvc.dll
+C:\Users\thdev\Documentos\Fiap\DevOps Tools and Cloud Computing\CP3\CP3DevOps\AppFuncional\AppMvc\obj\Debug\AppMvc.pdb
