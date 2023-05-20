@@ -17,7 +17,7 @@
 
 ## Arquitetura
 
-![Arquitetura](./doc/architeture.png)
+![Arquitetura](./AppFuncional/doc/architeture.png)
 
 ## Dependências
 
